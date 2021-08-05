@@ -37,7 +37,6 @@ body {
 .header div ul li {
     display:block;
     margin-left: 25px;
-    list-style-type:circle;
 }
 
 a {
@@ -132,17 +131,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
